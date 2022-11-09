@@ -6,8 +6,12 @@ Buscar un libro o reservarlo requiere mucho tiempo, especialmente porque la bibl
 Una aplicación que facilita el proceso de reserva, sabiendo si el libro está disponible o no, y sabiendo la fecha de devolución, también es posible navegar por todas las disciplinas y obtener sugerencias similares al libro requerido.  
 
 ---  
+### Hito0  
 - :pencil: [Descripción del problema del Hito0](http://jj.github.io/CC/documentos/proyecto/0.Repositorio)
-- :hammer: [Configuraciónes  del hito0](https://github.com/hamadabouhcida/cc_project/blob/main/docs/hito0.md) 
+- :hammer: [Configuraciónes  del hito0](https://github.com/hamadabouhcida/cc_project/blob/main/docs/hito0.md)  
+---  
+### Hito1  
+---
 - [Licencia del Proyecto](https://github.com/hamadabouhcida/cc_project/blob/main/licence.md)  
 
   

@@ -27,15 +27,16 @@ npm install --save-dev jest
 ```
 Después de la instalación, ejecutamos una prueba en una parte del código. 
 
-**Test realizados:**  
+### Test realizados:    
 
 Comprobamos la presencia de un usuario, así como el proceso de guardar o escanear un libro, el inicio de sesión del usuario… donde obtenemos los resultados en la imagen de abajo, lo que demuestra que vamos por el camino correcto.
-![](https://github.com/hamadabouhcida/cc_project/blob/main/docs/imgs/test.png)  
+![](https://github.com/hamadabouhcida/cc_project/blob/main/docs/imgs/test.png)    
 
+### Avance en El código:  
+Avancé un poco en escribir el código, programando la parte dedicada a  [crear una cuenta](https://github.com/hamadabouhcida/cc_project/milestone/1). Y también a nivel de [gestión](https://github.com/hamadabouhcida/cc_project/milestone/4).  
 
-### Elección y uso del marco de pruebas:  
+![](https://github.com/hamadabouhcida/cc_project/blob/main/docs/imgs/creatuser.PNG)  
 
-### Avance en El código: 
 
 
 

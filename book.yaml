@@ -1,0 +1,8 @@
+entidad:
+  - src/models/index.ts
+lenguaje:
+  - JavaScript
+test:
+  - test/tests.Js
+fichero_tareas:
+  - npm

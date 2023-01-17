@@ -11,10 +11,12 @@ Una aplicación que facilita el proceso de reserva, sabiendo si el libro está d
 - :hammer: [Configuraciónes  del hito0](https://github.com/hamadabouhcida/cc_project/blob/main/docs/hito0.md)  
 ---  
 ### Hito1  
-- [documentación del hito1](https://github.com/hamadabouhcida/cc_project/blob/main/docs/hito1.md)
+- [documentación del hito1](https://github.com/hamadabouhcida/cc_project/blob/main/docs/hito1.md) 
+---  
+### Hito2
+- [documentación del hito2](https://github.com/hamadabouhcida/cc_project/blob/main/docs/hito2.md)  
 ---
-- [Licencia del Proyecto](https://github.com/hamadabouhcida/cc_project/blob/main/licence.md)  
-
+- [Licencia del Proyecto](https://github.com/hamadabouhcida/cc_project/blob/main/licence.md)
   
     
     

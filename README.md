@@ -1,9 +1,10 @@
 # Cloud Computing
 ### Descripción del Proyecto:  
 ## 📚MyBook
-Nuestro proyecto consiste en desarrollar una aplicación web que facilita la gestión de una biblioteca para ser muy usable para los alumnos.  
-Buscar un libro o reservarlo requiere mucho tiempo, especialmente porque la biblioteca contiene varias especializaciones y un solo libro puede ser objetivo de varios estudiantes.  
-Una aplicación que facilita el proceso de reserva, sabiendo si el libro está disponible o no, y sabiendo la fecha de devolución, también es posible navegar por todas las disciplinas y obtener sugerencias similares al libro requerido.  
+Muchas personas sufren al navegar por sitios web y recopilar información en varios campos y organizarlos para beneficiarse de ellos.Uno de los problemas es la búsqueda de estudiantes y personas en general de libros para navegar.
+Por lo tanto, en nuestro proyecto, vamos a crear una página web que permita a los usuarios guardar búsquedas de libros y realizar muchos cambios en el proceso. Esta información se obtendrá mediante el uso de la API de Google Books. 
+
+<img src= "https://github.com/hamadabouhcida/cc_project/blob/main/docs/imgs/booksearch.png" width="250" heith="250">  
 
 ---  
 ### Hito0  

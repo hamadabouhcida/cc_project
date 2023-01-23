@@ -1,5 +1,5 @@
 entidad:
-  - src/models/index.ts
+  - src/models/index.Js
 lenguaje:
   - JavaScript
 test:

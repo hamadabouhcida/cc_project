@@ -1,8 +1,7 @@
 # Cloud Computing
 ### Descripción del Proyecto:  
 ## 📚MyBook
-Muchas personas sufren al navegar por sitios web y recopilar información en varios campos y organizarlos para beneficiarse de ellos.Uno de los problemas es la búsqueda de estudiantes y personas en general de libros para navegar.
-Por lo tanto, en nuestro proyecto, vamos a crear una página web que permita a los usuarios guardar búsquedas de libros y realizar muchos cambios en el proceso. Esta información se obtendrá mediante el uso de la API de Google Books. 
+Vamos a hacer una aplicación web completamente funcional para la biblioteca. Esperamos que esta aplicación facilite las cosas a los lectores. Hay 4 funciones principales en esta aplicación, que son la gestión de artículos, la gestión de usuarios, la gestión de libros y editoriales. Esperamos usar MERN STACK para desarrollar nuestro proyecto, MERN stack es una pila de software de JavaScript para crear aplicaciones web dinámicas. Cada función tenía operaciones crudas completas.   
 
 <img src= "https://github.com/hamadabouhcida/cc_project/blob/main/docs/imgs/booksearch.png" width="250" heith="250">  
 

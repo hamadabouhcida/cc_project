@@ -36,7 +36,7 @@ Comprobamos la presencia de un usuario, así como el proceso de guardar o escane
 Avancé un poco en escribir el código, programando la parte dedicada a  [crear una cuenta](https://github.com/hamadabouhcida/cc_project/milestone/1). Y también a nivel de [gestión](https://github.com/hamadabouhcida/cc_project/milestone/4).  
 [Aquí](https://github.com/hamadabouhcida/cc_project/tree/main/src/api/routes) tengo avance en el código que hace las operaciones Crud en las clases.
 
-![](https://github.com/hamadabouhcida/cc_project/blob/main/docs/imgs/creatuser.PNG)   
+![](https://github.com/hamadabouhcida/cc_project/blob/main/docs/imgs/creat_user.PNG)   
 
 
 

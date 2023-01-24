@@ -15,10 +15,11 @@ Vamos a hacer una aplicación web completamente funcional para la biblioteca. Es
 ---  
 ### Hito2
 - [documentación del hito2](https://github.com/hamadabouhcida/cc_project/blob/main/docs/hito2.md)  
+---  
+### Hito3
+- [documentación del hito3](https://github.com/hamadabouhcida/cc_project/blob/main/docs/hito3.md)  
 ---
-- [Licencia del Proyecto](https://github.com/hamadabouhcida/cc_project/blob/main/licence.md)
+- [Licencia del Proyecto](https://github.com/hamadabouhcida/cc_project/blob/main/licence.md)  
   
-    
-    
  La asignatura es supervisada por la profesora: 👩‍🏫[Claudia Villalonga](https://github.com/cvillalonga)  
  

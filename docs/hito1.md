@@ -9,4 +9,8 @@ En este documento tenemos los hitos y historias de usuarios de nuestro proyecto:
 - [Identificación](https://github.com/hamadabouhcida/cc_project/milestone/1): Este hito es para hacer la identificación del usuario en la bibioteca.
 - [Reservación de los libros](https://github.com/hamadabouhcida/cc_project/milestone/2): En este hito el usuario tiene que buscar el libro y encotrarlo disponible para reservarlo.  
 - [Contacto](https://github.com/hamadabouhcida/cc_project/milestone/3): En este hito el usuario puede contactar con el servicio.  
-- [Gestión de la biblioteca](https://github.com/hamadabouhcida/cc_project/milestone/4): Este hito es para el administrador que puede hacer la gestión de libros en la biblioteca.  
+- [Gestión de la biblioteca](https://github.com/hamadabouhcida/cc_project/milestone/4): Este hito es para el administrador que puede hacer la gestión de libros en la biblioteca.   
+#### Clases:  
+Para acceder a la clase [server.js](https://github.com/hamadabouhcida/cc_project/blob/main/server.js) Que llama a las clases base para verificar las operaciónes.  
+[Aquí](https://github.com/hamadabouhcida/cc_project/tree/main/src/api/models) tenemos las clases de nuestro proyecto.
+

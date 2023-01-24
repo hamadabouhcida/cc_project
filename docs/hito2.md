@@ -18,14 +18,13 @@ npm -v
 Los administradores de versiones de nodos le permiten instalar y cambiar entre múltiples versiones de Node.js y npm en su sistema para que pueda probar sus aplicaciones en múltiples versiones de npm para asegurarse de que funcionen para los usuarios en diferentes versiones.  
 
 ### Elección y uso de la biblioteca de aserciones:  
-En la programación de JavaScript, hay muchas bibliotecas con diferentes características, como: Jest, jsUnit, Cypress, AVA, Puppeteer, Jasmine...  
-Entre las muchas bibliotecas, elegí Jest porque es un marco de prueba de JavaScript encantador con un enfoque en la simplicidad. ¡Funciona con proyectos que usan: Babel, TypeScript, Node, React, Angular, Vue y más!. Al garantizar que sus pruebas tengan un estado global único, Jest puede ejecutar pruebas en paralelo de manera confiable. Para agilizar las cosas, Jest ejecuta primero las pruebas fallidas anteriormente y reorganiza las ejecuciones en función de la duración de los archivos de prueba. Y también puede recopilar información de cobertura de código de proyectos completos, incluidos archivos no probados.  
-Para instalar Jest usando mi administrador de Package (npm):  
+En la programación de JavaScript, hay muchas bibliotecas con diferentes características, como: Jest, jsUnit, Express, Cypress, AVA, Puppeteer, Jasmine...
+Entre las muchas bibliotecas, elegí **Express** porque es un marco de prueba de JavaScript encantador con un enfoque en la simplicidad. Muchos marcos populares se basan en Express. es una aplicación del lado del servidor creada con el marco Express.js, que se ejecuta sobre Node.js. En una aplicación de pila MERN (MongoDB, Express.js, React.js, Node.js), la aplicación Express.js es responsable del manejo de la lógica del lado del servidor, como el manejo de solicitudes HTTP, la conexión a una base de datos MongoDB y el servidor de procesamiento. -vistas laterales.
 
+Para instalar Jest usando mi administrador de Package (npm):  
 ```
-npm install --save-dev jest
+$ npm install express --save  
 ```
-Después de la instalación, ejecutamos una prueba en una parte del código. 
 
 ### Test realizados:    
 

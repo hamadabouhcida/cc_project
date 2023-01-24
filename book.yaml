@@ -1,5 +1,5 @@
 entidad:
-  - src/models/index.Js
+  - cc_project/server.js
 lenguaje:
   - JavaScript
 test:

@@ -28,11 +28,22 @@ jobs:
         set -e
         make test
 ```  
-Este archivo define una tubería con un solo trabajo llamado "compilación" que se ejecuta en la última versión de Ubuntu. El trabajo tiene dos pasos: uno para verificar el código del repositorio y otro para ejecutar pruebas usando el comando make test.
-El campo de nombre es el nombre de la canalización, el campo on son los activadores que inician esta canalización, el campo de trabajos es la lista de trabajos que se ejecutarán en la canalización, cada trabajo tiene un campo de pasos que es una lista de pasos que se ejecutarán en ese trabajo.  
+Este archivo define una tubería con un solo trabajo llamado "compilación" que se ejecuta en la última versión de Ubuntu. El trabajo tiene dos pasos: uno para verificar el código del repositorio y otro para ejecutar pruebas usando el comando make test.  
 ###  Integración continua adicional:  
 Como herramienta de integración continua, he creado un archivo CI.yml y añdir un archivo yml en la carpeta .circleci que es generado automáticamente por la plataforma.   
 
 ![](https://github.com/hamadabouhcida/cc_project/blob/main/docs/imgs/CI.PNG)  
+### uso correcto del gestor de tareas:  
+Para utilizar correctamente un gestor de tareas en un proyecto de JavaScript, es importante seguir algunas buenas prácticas:
+Utilice una metodología de desarrollo ágil, como Scrum, para planificar y gestionar tareas y proyectos.
+Utilicé una herramienta de automatización de pruebas *Jest* para asegurar que su código funcione correctamente antes de lanzarlo.
+El campo de nombre es el nombre de la canalización, el campo on son los activadores que inician esta canalización, el campo de trabajos es la lista de trabajos que se ejecutarán en la canalización, cada trabajo tiene un campo de pasos que es una lista de pasos que se ejecutarán en ese trabajo.  
+```
+Yarn:
+yarn add --dev jest
+-----------------------
+NPM:
+npm install --save-dev jest
+```
 
 

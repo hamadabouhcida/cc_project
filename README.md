@@ -25,7 +25,7 @@ Vamos a hacer una aplicación web completamente funcional para la biblioteca. Es
 ### Hito5  
 - [documentación del hito5](https://github.com/hamadabouhcida/cc_project/blob/main/docs/hito5.md)  
 ---  
-### Hito5  
+### Hito6  
 - [documentación del hito6](https://github.com/hamadabouhcida/cc_project/blob/main/docs/hito6.md)
 ---  
 - [Licencia del Proyecto](https://github.com/hamadabouhcida/cc_project/blob/main/licence.md)  

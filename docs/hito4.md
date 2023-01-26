@@ -31,7 +31,8 @@ jobs:
 Este archivo define una tubería con un solo trabajo llamado "compilación" que se ejecuta en la última versión de Ubuntu. El trabajo tiene dos pasos: uno para verificar el código del repositorio y otro para ejecutar pruebas usando el comando make test.
 El campo de nombre es el nombre de la canalización, el campo on son los activadores que inician esta canalización, el campo de trabajos es la lista de trabajos que se ejecutarán en la canalización, cada trabajo tiene un campo de pasos que es una lista de pasos que se ejecutarán en ese trabajo.  
 ###  Integración continua adicional:  
-Como herramienta de integración continua, he creado un archivo CI.yml y añdir un archivo yml en la carpeta .circleci que es generado automáticamente por la plataforma. 
+Como herramienta de integración continua, he creado un archivo CI.yml y añdir un archivo yml en la carpeta .circleci que es generado automáticamente por la plataforma.   
+
 ![](https://github.com/hamadabouhcida/cc_project/blob/main/docs/imgs/CI.PNG)  
 
 

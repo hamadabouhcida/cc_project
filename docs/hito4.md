@@ -33,7 +33,7 @@ Este archivo define una tubería con un solo trabajo llamado "compilación" que 
 Como herramienta de integración continua, he creado un archivo CI.yml y añdir un archivo yml en la carpeta .circleci que es generado automáticamente por la plataforma.   
 
 ![](https://github.com/hamadabouhcida/cc_project/blob/main/docs/imgs/CI.PNG)  
-### uso correcto del gestor de tareas:  
+### Uso correcto del gestor de tareas:  
 Para utilizar correctamente un gestor de tareas en un proyecto de JavaScript, es importante seguir algunas buenas prácticas:
 Utilice una metodología de desarrollo ágil, como Scrum, para planificar y gestionar tareas y proyectos.
 Utilicé una herramienta de automatización de pruebas *Jest* para asegurar que su código funcione correctamente antes de lanzarlo.

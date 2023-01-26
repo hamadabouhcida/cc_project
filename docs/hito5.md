@@ -43,6 +43,9 @@ router.get("/:id", async (req, res) => {
   }
 });  
 ~~~  
-### Plataforma API de Postman:
-      
+### Plataforma API de Postman:  
+![](https://github.com/hamadabouhcida/cc_project/blob/main/docs/imgs/postman.PNG)  
+![](https://github.com/hamadabouhcida/cc_project/blob/main/docs/imgs/mongoconected.PNG)  
+![](https://github.com/hamadabouhcida/cc_project/blob/main/docs/imgs/result%20db.PNG)  
+
       
